@@ -1,0 +1,5 @@
+.DS_Store
+._*
+~$*
+*.inspect.ndjson
+INTERVIEW_GUIDE.md
