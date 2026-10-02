@@ -79,8 +79,8 @@ Under the base weights, Cazenove scores 70, while M&G and Sarasin each score 63.
 
 ## Outputs
 
-- `output/UK_Charity_Fund_Selection.xlsx`: mandate, suitability screen, fund evidence, scorecard, sensitivity analysis, manager questions, monitoring triggers and source register
+- `workbook/UK_Charity_Fund_Selection.xlsx`: mandate, suitability screen, fund evidence, scorecard, sensitivity analysis, manager questions, monitoring triggers and source register
 - `data/fund_evidence.json`: structured evidence, scoring assumptions and source links
 - `INVESTMENT_MEMO.md`: committee recommendation and conditions before appointment
-- `INTERVIEW_GUIDE.md`: concise explanation, challenges, limitations and defensible CV wording
+
 - `README.md`: public project overview and review instructions
